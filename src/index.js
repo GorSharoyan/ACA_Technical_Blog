@@ -4,13 +4,11 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Header from './components/Header/Header';
-import Footer from './compoents/Footer/Footer'
+import Footer from './components/Footer/Footer'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header />
     <App />
-    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );

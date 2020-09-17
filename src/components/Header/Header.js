@@ -5,7 +5,7 @@ export default function Header(){
     return (
         <div>
             <header>
-               <h2>Login</h2>
+               <h2>Blog</h2>
             </header>   
         </div>
     )
