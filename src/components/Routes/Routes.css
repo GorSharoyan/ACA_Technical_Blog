@@ -1,0 +1,9 @@
+.routing{
+    text-align: center;
+}
+
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}

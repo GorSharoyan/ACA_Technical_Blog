@@ -7,11 +7,10 @@ export default class App extends React.Component{
     constructor(props){
         super(props);
     }
-    render() {
+    render () {
         return(
        <Header />,
-         <Routes />,
-       <Footer />
+       <Routes />
         )
     }
 }

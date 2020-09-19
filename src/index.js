@@ -9,6 +9,7 @@ import Footer from './components/Footer/Footer'
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );
